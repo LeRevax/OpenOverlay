@@ -10,6 +10,19 @@ Requirements: Windows 10 or 11 (64-bit) and iRacing. Run iRacing in
 "borderless windowed" mode, not in exclusive fullscreen (see Installation,
 step 3).
 
+## Download
+
+Latest version as a ready-to-run zip (portable, no installation):
+
+        https://github.com/TheRexa-crypto/OpenOverlay/releases/latest
+
+Direct link to the current zip:
+
+        https://github.com/TheRexa-crypto/OpenOverlay/releases/download/v0.1.0/OpenOverlay-v0.1.0.zip
+
+The releases page always carries the newest build; older versions stay
+available there too.
+
 ## Contents
 
 1. Installation for users (portable exe)
