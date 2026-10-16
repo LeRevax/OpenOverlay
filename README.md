@@ -18,7 +18,7 @@ Latest version as a ready-to-run zip (portable, no installation):
 
 Direct link to the current zip:
 
-        https://github.com/LeRevax/OpenOverlay/releases/download/v0.1.0/OpenOverlay-v0.1.0.zip
+        https://github.com/LeRevax/OpenOverlay/releases/tag/v0.2.0
 
 The releases page always carries the newest build; older versions stay
 available there too.
