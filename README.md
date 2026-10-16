@@ -14,11 +14,11 @@ step 3).
 
 Latest version as a ready-to-run zip (portable, no installation):
 
-        https://github.com/TheRexa-crypto/OpenOverlay/releases/latest
+        https://github.com/TheRevax-crypto/OpenOverlay/releases/latest
 
 Direct link to the current zip:
 
-        https://github.com/TheRexa-crypto/OpenOverlay/releases/download/v0.1.0/OpenOverlay-v0.1.0.zip
+        https://github.com/TheRevax-crypto/OpenOverlay/releases/download/v0.1.0/OpenOverlay-v0.1.0.zip
 
 The releases page always carries the newest build; older versions stay
 available there too.
